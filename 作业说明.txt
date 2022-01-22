@@ -1,0 +1,5 @@
+由于提交作业的时候才发现有最大50MB的限制
+所以视频进行了高度的压缩，原版高清视频已上传B站，以下是地址：
+https://www.bilibili.com/video/BV1om4y1U76n?share_source=copy_web
+打包好的可执行文件就放置在服务器里了，下面是下载地址：
+zhj12399.cn:8080/打包成品.zip
